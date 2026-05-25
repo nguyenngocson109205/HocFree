@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedteam-net-1-2-hocmienphi.api", "piedteam-net-1-2-hocmienphi.api\piedteam-net-1-2-hocmienphi.api.csproj", "{B80D4964-BB41-4C79-9267-98EADFA07A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedsteam-net-1-2-hocmienphi.service", "piedsteam-net-1-2-hocmienphi.service\piedsteam-net-1-2-hocmienphi.service.csproj", "{1B0969FA-F170-4629-A779-55F6CBCE9A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedsteam-net-1-2-hocmienphi.repository", "piedsteam-net-1-2-hocmienphi.repository\piedsteam-net-1-2-hocmienphi.repository.csproj", "{73EB5634-FA8C-4F17-ABD0-563DED55E11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80D4964-BB41-4C79-9267-98EADFA07A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80D4964-BB41-4C79-9267-98EADFA07A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80D4964-BB41-4C79-9267-98EADFA07A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80D4964-BB41-4C79-9267-98EADFA07A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0969FA-F170-4629-A779-55F6CBCE9A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0969FA-F170-4629-A779-55F6CBCE9A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0969FA-F170-4629-A779-55F6CBCE9A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0969FA-F170-4629-A779-55F6CBCE9A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EB5634-FA8C-4F17-ABD0-563DED55E11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EB5634-FA8C-4F17-ABD0-563DED55E11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EB5634-FA8C-4F17-ABD0-563DED55E11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EB5634-FA8C-4F17-ABD0-563DED55E11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
